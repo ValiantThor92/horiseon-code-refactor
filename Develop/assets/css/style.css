@@ -101,7 +101,7 @@ a {
 /* what-we-offer/services styles end */
 /* benefits styles start */
 
-.benefit {
+.benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -110,6 +110,9 @@ a {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+}
+
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
