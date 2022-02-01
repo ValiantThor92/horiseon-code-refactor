@@ -16,25 +16,25 @@ THEN I find a concise, descriptive title <br />
 
 ## Files & directories
 
--horiseon-code-refactor
-    -Develop
-      -assets
-        -css
-          -style.css
-        -images
-          -brand-awareness.png
-          -cost-management.png
-          -digital-marketing-meeting.jpg
-          -lead-generation.png
-          -online-reputation-management.jpg
-          -search-engine-optimization.jpg
-          -social-media-marketing.jpg
-      -index.html
-    -.gitignore
-    -horiseon1.jpg
-    -horiseon2.jpg
-    -horiseon3.jpg
-    -README.md
+-horiseon-code-refactor <br />
+    -Develop <br />
+      -assets <br />
+        -css <br />
+          -style.css <br />
+        -images <br />
+          -brand-awareness.png <br />
+          -cost-management.png <br />
+          -digital-marketing-meeting.jpg <br />
+          -lead-generation.png <br />
+          -online-reputation-management.jpg <br />
+          -search-engine-optimization.jpg <br />
+          -social-media-marketing.jpg <br />
+      -index.html <br />
+    -.gitignore <br />
+    -horiseon1.jpg <br />
+    -horiseon2.jpg <br />
+    -horiseon3.jpg <br />
+    -README.md <br />
 
 ## Project Notes
 
