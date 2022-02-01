@@ -49,7 +49,7 @@ i have added comments, alt attributes, and reconfigured the flow of the page to 
 
 ## Link
 
-[link](https://valiantthor92.github.io/horiseon-code-refactor/)
+[link](https://valiantthor92.github.io/horiseon-code-refactor/index.html)
 
 ## Credits
 
