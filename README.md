@@ -43,9 +43,9 @@ i have added comments, alt attributes, and reconfigured the flow of the page to 
 
 ## Screenshots
 
-<img src="./screenshots/horiseon1.jpg">
-<img src="./screenshots/horiseon2.jpg">
-<img src="./screenshots/horiseon3.jpg">
+<img src="./Develop/screenshots/horiseon1.jpg">
+<img src="./Develop/screenshots/horiseon2.jpg">
+<img src="./Develop/screenshots/horiseon3.jpg">
 
 ## Link
 
